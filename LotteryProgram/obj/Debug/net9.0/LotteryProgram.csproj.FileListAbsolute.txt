@@ -1,0 +1,14 @@
+/Users/k/Projects/LotteryProject/LotteryProgram/LotteryProgram/bin/Debug/net9.0/LotteryProgram
+/Users/k/Projects/LotteryProject/LotteryProgram/LotteryProgram/bin/Debug/net9.0/LotteryProgram.deps.json
+/Users/k/Projects/LotteryProject/LotteryProgram/LotteryProgram/bin/Debug/net9.0/LotteryProgram.runtimeconfig.json
+/Users/k/Projects/LotteryProject/LotteryProgram/LotteryProgram/bin/Debug/net9.0/LotteryProgram.dll
+/Users/k/Projects/LotteryProject/LotteryProgram/LotteryProgram/bin/Debug/net9.0/LotteryProgram.pdb
+/Users/k/Projects/LotteryProject/LotteryProgram/LotteryProgram/obj/Debug/net9.0/LotteryProgram.GeneratedMSBuildEditorConfig.editorconfig
+/Users/k/Projects/LotteryProject/LotteryProgram/LotteryProgram/obj/Debug/net9.0/LotteryProgram.AssemblyInfoInputs.cache
+/Users/k/Projects/LotteryProject/LotteryProgram/LotteryProgram/obj/Debug/net9.0/LotteryProgram.AssemblyInfo.cs
+/Users/k/Projects/LotteryProject/LotteryProgram/LotteryProgram/obj/Debug/net9.0/LotteryProgram.csproj.CoreCompileInputs.cache
+/Users/k/Projects/LotteryProject/LotteryProgram/LotteryProgram/obj/Debug/net9.0/LotteryProgram.dll
+/Users/k/Projects/LotteryProject/LotteryProgram/LotteryProgram/obj/Debug/net9.0/refint/LotteryProgram.dll
+/Users/k/Projects/LotteryProject/LotteryProgram/LotteryProgram/obj/Debug/net9.0/LotteryProgram.pdb
+/Users/k/Projects/LotteryProject/LotteryProgram/LotteryProgram/obj/Debug/net9.0/LotteryProgram.genruntimeconfig.cache
+/Users/k/Projects/LotteryProject/LotteryProgram/LotteryProgram/obj/Debug/net9.0/ref/LotteryProgram.dll
