@@ -1,4 +1,4 @@
-# Lottery Console Appication in C#
+# Lottery Console Application in C#
 A straightforward lottery application in C# console.
 
 ## Features
@@ -19,6 +19,7 @@ A straightforward lottery application in C# console.
 - C#
 - Console Application
 - .Net 9.0
+- Visual Studio Code
 
 ## Result
 <img width="733" alt="Image" src="https://github.com/user-attachments/assets/2e09e2c1-77f3-45a5-ab91-6f0da2ec16a5" />
