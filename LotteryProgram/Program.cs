@@ -57,7 +57,7 @@ public class Program{
 
     public static List<int> GenerateUniqueNumber (int count, int min, int max){
         List<int> resultList = new List<int>();
-        Random  randNumber = new Random();
+        Random randNumber = new Random();
         for(int i=0; i < count; i++){
             int selectedNumber = randNumber.Next(min, max);
             //Check if the selected number is already existed in the list
@@ -85,7 +85,7 @@ public class Program{
 
     public static int GenerateBonusBall (List<int> lotteryNumberList, int min, int max){
         int result;
-        Random  randNumber = new Random();
+        Random randNumber = new Random();
 
         //Check the unique bonus ball
         do
